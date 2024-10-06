@@ -1,7 +1,7 @@
 ## Hi coderzz 👋 It's me BharaniDharan P
 
 Full stack developer studying in RPSIT College 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://images.app.goo.gl/AufwSHf3BkWCX1iw5">
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)                                                 
 - 🌱 I’m currently learning Front end developer
 - 👯 I’m looking to collaborate on experience person 
