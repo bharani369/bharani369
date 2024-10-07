@@ -8,8 +8,7 @@ Full stack developer studying in RPSIT College
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />
- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharanidharan/)
+<br />  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://youtube.com/@gamingwithttspeed6042?si=5gpKH7KrR_TSUcI1)
