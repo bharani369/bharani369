@@ -8,9 +8,10 @@ Full stack developer studying in RPSIT College
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAZXh0bgNhZW0CMTEAAaYW2CE-eeANqB5e0wEdmSzvQIYAI2lN_xSJ7cY6pARSYmqGOIb3eevnrRU_aem_0ZWHywRVgLmJg92jS7cKZg)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: I watch shinchan.
 - ![YouTube Channel Views]()
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
@@ -24,8 +25,6 @@ Full stack developer studying in RPSIT College
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![BharaniDharan GitHub stats](https://github-readme-stats.vercel.app/api?username=bharani369-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Bharanidharan?theme=nord&font=Noto%20Sans%20HK&ext=activity)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Bharanidharan?theme=nord&font=Noto%20Sans%20HK&ext=activity)
 
-[![BharaniDharan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
