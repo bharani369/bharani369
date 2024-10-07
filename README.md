@@ -10,7 +10,7 @@ Full stack developer studying in RPSIT College
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a)
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: I watch shinchan cartoon..!
 - ![YouTube Channel Views](https://youtube.com/@gamingwithttspeed6042?si=5gpKH7KrR_TSUcI1)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ
 
