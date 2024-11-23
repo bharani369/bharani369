@@ -26,8 +26,8 @@ Full stack developer studying in RPSIT College
 
 
 <a href="https://github.com/Bharani369">
-    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40+Bharanidharan+P+
-      ...;and+I'm+making+awesome+website+everyday;Checkout+my+super+amazing+repos+now!" />
+    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Atharva+Bharanidharan;and+I'm+making+awesome+website+everyday;Checkout+my+super+amazing+repos+now!" />
+    
     
 
 
