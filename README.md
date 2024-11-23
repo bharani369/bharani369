@@ -1,5 +1,7 @@
 <h1 align="center"><code>Welcome to Bharanidharan GitHub Page</code></h1>
-
+<a href="https://github.com/Bharani369">
+    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40+Bharanidharan+...;and+I'm+making+awesome+website+everyday;Checkout+my+super+amazing+repos+now!" />
+    
 <p align="center">
   <a href="https://twitter.com/MRTAG08"><img src="https://img.shields.io/badge/-@MRTAG08-36454F?style=flat&logo=X&logoColor=offwhite" /></a>
   <a href="https://stackoverflow.com/users/13546363/atharva-chauhan"><img src="https://img.shields.io/badge/-AtharvaChauhan-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
@@ -25,9 +27,7 @@ Full stack developer studying in RPSIT College
 </p>
 
 
-<a href="https://github.com/Bharani369">
-    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40+Bharanidharan+...;and+I'm+making+awesome+website+everyday;Checkout+my+super+amazing+repos+now!" />
-    
+
     
 
 
