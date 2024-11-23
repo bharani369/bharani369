@@ -42,8 +42,10 @@ Full stack developer studying in RPSIT College
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani874)
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani_coder)
+[<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/gamingwithttspeed)
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/digital_marketing_with_bharani)
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@gamingwithttspeed6042?si=hk0fOKqoa-EPO2cj)
+
 <br>
 ___
 
