@@ -6,14 +6,7 @@
   <img src="https://profile-counter.glitch.me/Bharani369/count.svg" />
 </p>
     
-<p align="center">
-  <a href="https://twitter.com/MRTAG08"><img src="https://img.shields.io/badge/-@MRTAG08-36454F?style=flat&logo=X&logoColor=offwhite" /></a>
-  <a href="https://stackoverflow.com/users/13546363/atharva-chauhan"><img src="https://img.shields.io/badge/-AtharvaChauhan-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
-  <a href="https://github.com/TAGISWILD"><img src="https://img.shields.io/badge/-TAGISWILD-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://tagiswild.github.io"><img src="https://img.shields.io/badge/-AtharvaChauhan.me-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  <a href="https://instagram.com/mrtag08"><img src="https://img.shields.io/badge/-@MRTAG08-pink?style=flat&logo=Instagram&logoColor=offwhite" /></a>
-  <a href="https://www.linkedin.com/in/MRTAG08"><img src="https://img.shields.io/badge/-MRTAG08-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@EthiccCode"><img src="https://img.shields.io/youtube/channel/subscribers/UCOH-KD7pGjspzUMwDchZjUw" /></a>
+
 
 Full stack developer studying in RPSIT College 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
