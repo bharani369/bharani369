@@ -11,6 +11,26 @@ Full stack developer studying in RPSIT College
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I watch shinchan cartoon..!
+- <h1 align="center"><code>Welcome to Chauhan's GitHub Page</code></h1>
+
+<p align="center">
+  <a href="https://twitter.com/MRTAG08"><img src="https://img.shields.io/badge/-@MRTAG08-36454F?style=flat&logo=X&logoColor=offwhite" /></a>
+  <a href="https://stackoverflow.com/users/13546363/atharva-chauhan"><img src="https://img.shields.io/badge/-AtharvaChauhan-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://github.com/TAGISWILD"><img src="https://img.shields.io/badge/-TAGISWILD-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://tagiswild.github.io"><img src="https://img.shields.io/badge/-AtharvaChauhan.me-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://instagram.com/mrtag08"><img src="https://img.shields.io/badge/-@MRTAG08-pink?style=flat&logo=Instagram&logoColor=offwhite" /></a>
+  <a href="https://www.linkedin.com/in/MRTAG08"><img src="https://img.shields.io/badge/-MRTAG08-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@EthiccCode"><img src="https://img.shields.io/youtube/channel/subscribers/UCOH-KD7pGjspzUMwDchZjUw" /></a>
+  
+</p>
+
+
+
+<a href="https://github.com/TAGISWILD">
+    <img width="500" src="https://readme-typing-svg.herokuapp.com?color=20C20E&width=450&height=50&lines=Hello+%F0%9F%91%8B;I'm+%40Atharva+Chauhan+a.k.a+MRTAG08...;and+I'm+making+awesome+things+everyday;Checkout+my+super+amazing+repos+now!" />
+
+
+
 - ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [How to install and run Linux Mint on your computer |  Linux Mint  2021 | [hindi]](https://www.youtube.com/watch?v=QTpOeqyS6aw)
