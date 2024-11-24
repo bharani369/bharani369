@@ -33,7 +33,7 @@ Full stack developer studying in RPSIT College
 [<img align="left" alt="ucguy4u | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@gamingwithttspeed6042?si=hk0fOKqoa-EPO2cj)
 
 <br>
-![Bharani369 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani369&theme=dark&show_icons=true&&hide=issues,contribs)
+![Bharani369 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani369&theme=dark&show_icons=true&&hide=issues,contribs)]
 
 
 
