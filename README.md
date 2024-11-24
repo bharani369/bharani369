@@ -18,7 +18,8 @@ Full stack developer studying in RPSIT College
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I watch shinchan cartoon..!
-- 
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
   
 </p>
 
