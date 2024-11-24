@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/Bharani369/count.svg" />
 </p>
     
-<img align="right" width="470" height="590" src="1000014065.gif">
+<img align="right" width="470" height="590" src="https://gwttspeed.blogspot.com/2024/11/intro.html">
 
 Full stack developer studying in RPSIT College 
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)          - 🌱 I’m currently learning Front end developer
