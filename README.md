@@ -23,7 +23,7 @@ Full stack developer studying in RPSIT College
   
 </p>
 
-
+[<img align="left" alt="| Instagram" width="22px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZNm1nGUysuNqAvKJbLNDazgJQ7upzajNbqWkvaFD45Hr6lJecjUCgZXgcTjeZCRvxdkVtuqkFa6vVnwu9hTMATDo4GFdrxwrmT8qJKEtiUDKnbsdcrOVvCXNgjt6NH8cGEP6Rrkc2iKn829o5WK4HYrUDq-NRMIG3pd2GHenU4j4l_b2qWVmyf1mpWlG/s240/1000014047.gif" />](https://instagram.com/bharani874)
 
 - ### My Latest Youtube Videos
 <!-- YOUTUBE:START -->
