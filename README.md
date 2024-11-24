@@ -9,7 +9,8 @@
 
 
 Full stack developer studying in RPSIT College 
-- 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)                                                 
+- 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                             
 - 🌱 I’m currently learning Front end developer
 - 👯 I’m looking to collaborate on experience person 
 - 🤔 I’m looking for help with Placements in FAANG
@@ -19,7 +20,7 @@ Full stack developer studying in RPSIT College
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I watch shinchan cartoon..!
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
   
 </p>
 
