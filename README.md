@@ -5,7 +5,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Bharani369/count.svg" />
 </p>
- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
 Full stack developer studying in RPSIT College 
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)          - 🌱 I’m currently learning Front end developer
@@ -17,7 +16,7 @@ Full stack developer studying in RPSIT College
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I watch shinchan cartoon..!
 
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
   
 </p>
 
