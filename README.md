@@ -16,7 +16,7 @@ Full stack developer studying in RPSIT College
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I watch shinchan cartoon..!
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf1nNuesAsqwM9KUl-LODuNt4yVzjKlu15lmdX316U3TRE_Qm1DrAt5SdZVRBheFAwFEBEQ-h_s6rBt8mRY-9GLicn8LhJk-KJ4ZRXvg6WF0wFsl7-zFINux9qrVrCBnXnAx6Q1fUZNnhOfl3_ni66BzUM7X1j08jnz1UciA7GPqC7wetwZSlp29iBmyhu/s640/1000014065.gif">
   
 </p>
 
