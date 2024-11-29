@@ -37,8 +37,11 @@ Full stack developer studying in RPSIT College
 <br>
 
 ![Bharani369 GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani369&theme=dark&show_icons=true&&hide=issues,contribs)
+<br>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Bharani369&theme=react-dark&hide_border=true&area=true)
 
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ### I code in
