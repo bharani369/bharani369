@@ -17,7 +17,7 @@ Full stack developer studying in RPSIT College [my all social media links](https
 - ⚡ Fun fact: I watch shinchan cartoon..!
 </p>
 
-- ### My Latest Instagram Reels <img align="center" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+- ### My Latest Instagram Reels     <a href="https://instagram.com/bharani_coder"><img src="https://img.shields.io/badge/-@Bharani_coder-pink?style=flat&logo=Instagram&logoColor=offwhite" /></a>
 <!-- YOUTUBE:START -->
 - [Learn Full stack Development in 2x Speed with Bharanidharan [Tamil]](https://www.instagram.com/reel/DAv56DoTxp2/?igsh=aDFxaWdiMnVweDB0)
 - [Top 5 Javascript projects for freshers | coder_bharani](https://www.instagram.com/reel/DAtkNSXAb1J/?igsh=MWdjOHBvZHZqNWxzNg==)
