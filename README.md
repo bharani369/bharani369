@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/Bharani369/count.svg" />
 </p>
 
-Full stack developer studying in RPSIT College 
+Full stack developer studying in RPSIT College [my all social media links](https://linktr.ee/Bharani369)
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)          - 🌱 I’m currently learning Front end developer
 - 👯 I’m looking to collaborate on experience person 
 - 🤔 I’m looking for help with Placements in FAANG
