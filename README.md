@@ -25,8 +25,6 @@ Full stack developer studying in RPSIT College [my all social media links](https
 - [40+ Front end project Beginners to Advanced project with coder_bharani](https://www.instagram.com/reel/C-jb6TTsiWk/?igsh=ZmVjaGV2YWJpNWdy)
 - [learn MERN STACK development step by step tutorial and different between full stack Development vs mern stack Development](https://www.instagram.com/reel/C-SZg8_MqA_/?igsh=MTFocmNpNnBzMzYyaA==)
 <!-- YOUTUBE:END -->
-
-<br>
 <br>
 
 ### Get Connected With Me 😁
