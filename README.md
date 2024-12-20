@@ -27,6 +27,9 @@ Full stack developer studying in RPSIT College [my all social media links](https
 <!-- YOUTUBE:END -->
 <br>
 
+## MY GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bharani369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani874)
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani_coder)
