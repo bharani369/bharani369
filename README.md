@@ -26,6 +26,9 @@ Full stack developer studying in RPSIT College [my all social media links](https
 - [learn MERN STACK development step by step tutorial and different between full stack Development vs mern stack Development](https://www.instagram.com/reel/C-SZg8_MqA_/?igsh=MTFocmNpNnBzMzYyaA==)
 <!-- YOUTUBE:END -->
 
+<br>
+<br>
+
 ### Get Connected With Me 😁
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani874)
 [<img align="left" alt="| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bharani_coder)
