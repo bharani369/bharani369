@@ -9,12 +9,9 @@
 Full stack developer studying in RPSIT College [my all social media links](https://linktr.ee/Bharani369)
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)          - 🌱 I’m currently learning Front end developer
 - 👯 I’m looking to collaborate on experience person 
-- 🤔 I’m looking for help with Placements in FAANG
-- 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I watch shinchan cartoon..!
+
 </p>
 
 - ### My Latest Instagram Reels     <a href="https://instagram.com/bharani_coder"><img src="https://img.shields.io/badge/-@Bharani_coder-pink?style=flat&logo=Instagram&logoColor=offwhite" /></a>
