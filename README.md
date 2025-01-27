@@ -14,14 +14,7 @@ Full stack developer studying in RPSIT College [my all social media links](https
 
 </p>
 
-- ### My Latest Instagram Reels     <a href="https://instagram.com/bharani_coder"><img src="https://img.shields.io/badge/-@Bharani_coder-pink?style=flat&logo=Instagram&logoColor=offwhite" /></a>
-<!-- YOUTUBE:START -->
-- [Learn Full stack Development in 2x Speed with Bharanidharan [Tamil]](https://www.instagram.com/reel/DAv56DoTxp2/?igsh=aDFxaWdiMnVweDB0)
-- [Top 5 Javascript projects for freshers | coder_bharani](https://www.instagram.com/reel/DAtkNSXAb1J/?igsh=MWdjOHBvZHZqNWxzNg==)
-- [Learn JavaScript by step by step with Bharanidharan 9 step to learn JavaScript easy way..](https://www.instagram.com/reel/DAk-BwFgICp/?igsh=NHE2dnlxdnJ1eWQ4)
-- [40+ Front end project Beginners to Advanced project with coder_bharani](https://www.instagram.com/reel/C-jb6TTsiWk/?igsh=ZmVjaGV2YWJpNWdy)
-- [learn MERN STACK development step by step tutorial and different between full stack Development vs mern stack Development](https://www.instagram.com/reel/C-SZg8_MqA_/?igsh=MTFocmNpNnBzMzYyaA==)
-<!-- YOUTUBE:END -->
+
 <br>
 
 ## MY GitHub Trophies
