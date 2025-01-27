@@ -10,7 +10,7 @@ Full stack developer studying in RPSIT College [my all social media links](https
 - 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)          - 🌱 I’m currently learning Front end developer
 - 👯 I’m looking to collaborate on experience person 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-b1911023a)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharani-dharan-p-b1911023a)
 
 </p>
 
