@@ -20,7 +20,7 @@ To secure a challenging and rewarding role as a Full Stack Developer in a reputa
 - Adaptability and willingness to learn
 - Time management and organization
 ### check it out my Resume 
-- [View My Resume](https://drive.google.com/file/d/1CUM5ZdeXooZa0uoOFrmx9k_onyLbw81H/view?usp=drivesdk) 
+- [View My Resume](https://drive.google.com/file/d/1F6RlRqGuA1qFLVGXetGW6dJsoWIiqh4D/view?usp=drivesdk) 
 ### Portfolio 
 - [View My Portfolio](https://bharaniportfolio3.netlify.app/)
 ### Google developer 
